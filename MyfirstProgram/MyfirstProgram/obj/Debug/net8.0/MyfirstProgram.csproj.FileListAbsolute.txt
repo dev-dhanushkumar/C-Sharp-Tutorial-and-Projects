@@ -1,0 +1,14 @@
+D:\C-Sharp-Tutorial-and-Projects\MyfirstProgram\MyfirstProgram\bin\Debug\net8.0\MyfirstProgram.exe
+D:\C-Sharp-Tutorial-and-Projects\MyfirstProgram\MyfirstProgram\bin\Debug\net8.0\MyfirstProgram.deps.json
+D:\C-Sharp-Tutorial-and-Projects\MyfirstProgram\MyfirstProgram\bin\Debug\net8.0\MyfirstProgram.runtimeconfig.json
+D:\C-Sharp-Tutorial-and-Projects\MyfirstProgram\MyfirstProgram\bin\Debug\net8.0\MyfirstProgram.dll
+D:\C-Sharp-Tutorial-and-Projects\MyfirstProgram\MyfirstProgram\bin\Debug\net8.0\MyfirstProgram.pdb
+D:\C-Sharp-Tutorial-and-Projects\MyfirstProgram\MyfirstProgram\obj\Debug\net8.0\MyfirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Tutorial-and-Projects\MyfirstProgram\MyfirstProgram\obj\Debug\net8.0\MyfirstProgram.AssemblyInfoInputs.cache
+D:\C-Sharp-Tutorial-and-Projects\MyfirstProgram\MyfirstProgram\obj\Debug\net8.0\MyfirstProgram.AssemblyInfo.cs
+D:\C-Sharp-Tutorial-and-Projects\MyfirstProgram\MyfirstProgram\obj\Debug\net8.0\MyfirstProgram.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Tutorial-and-Projects\MyfirstProgram\MyfirstProgram\obj\Debug\net8.0\MyfirstProgram.dll
+D:\C-Sharp-Tutorial-and-Projects\MyfirstProgram\MyfirstProgram\obj\Debug\net8.0\refint\MyfirstProgram.dll
+D:\C-Sharp-Tutorial-and-Projects\MyfirstProgram\MyfirstProgram\obj\Debug\net8.0\MyfirstProgram.pdb
+D:\C-Sharp-Tutorial-and-Projects\MyfirstProgram\MyfirstProgram\obj\Debug\net8.0\MyfirstProgram.genruntimeconfig.cache
+D:\C-Sharp-Tutorial-and-Projects\MyfirstProgram\MyfirstProgram\obj\Debug\net8.0\ref\MyfirstProgram.dll
