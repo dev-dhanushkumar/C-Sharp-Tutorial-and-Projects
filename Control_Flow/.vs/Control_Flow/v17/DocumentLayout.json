@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C-Sharp-Tutorial-and-Projects\\Control_Flow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6750B204-C7C1-4129-AEA4-141DD87B662E}|Control_Flow\\Control_Flow.csproj|d:\\c-sharp-tutorial-and-projects\\control_flow\\control_flow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6750B204-C7C1-4129-AEA4-141DD87B662E}|Control_Flow\\Control_Flow.csproj|solutionrelative:control_flow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C-Sharp-Tutorial-and-Projects\\Control_Flow\\Control_Flow\\Program.cs",
+              "RelativeDocumentMoniker": "Control_Flow\\Program.cs",
+              "ToolTip": "D:\\C-Sharp-Tutorial-and-Projects\\Control_Flow\\Control_Flow\\Program.cs",
+              "RelativeToolTip": "Control_Flow\\Program.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T20:17:52.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
